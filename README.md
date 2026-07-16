@@ -1,16 +1,13 @@
-## Hi there 👋
+## Zdravím 👋
 
-<!--
-**Veselyy/Veselyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UI/UX designer, který se posunul k frontend developmentu. Studuji na **VUT v Brně**.
 
-Here are some ideas to get you started:
+Baví mě dotahovat věci od Figmy až po produkci — navrhnout rozhraní a pak ho i reálně postavit, beze ztrát při předání designu do kódu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Aktuálně stavím:** stromovou aplikaci pro hierarchickou vizualizaci úkolů v React, TypeScript a Node.js.
+
+**Stack:** React · TypeScript · JavaScript · Node.js · CSS Modules · Vite · Figma · Git · GitHub
+
+**Hledám:** brigádu/part-time na pomezí designu, frontendu, backendu a testování.
+
+📫 Kontakt: veselymartin.online@gmail.com
